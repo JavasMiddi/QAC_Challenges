@@ -1,0 +1,4 @@
+*.md
+*/src*
+*/foo*bar
+*/a*.txt
