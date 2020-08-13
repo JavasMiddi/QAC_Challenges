@@ -1,4 +1,5 @@
 *.md
-*/src*
-*/foo*bar
-*/a*.txt
+src
+foo*
+!foo*bar
+a*/*.txt
